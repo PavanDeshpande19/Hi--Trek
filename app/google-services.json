@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263080510831",
+    "firebase_url": "https://hi-trek-default-rtdb.firebaseio.com",
+    "project_id": "hi-trek",
+    "storage_bucket": "hi-trek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263080510831:android:5678eb81c1c78048b9549a",
+        "android_client_info": {
+          "package_name": "com.example.hi_trek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263080510831-uqmavl51m5fequitcver5mihi3ic63qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hi_trek",
+            "certificate_hash": "3167e9dd72bd5a4e7402fa7d6e819a17f10275ae"
+          }
+        },
+        {
+          "client_id": "263080510831-bjf82cmj25p9amobvpjppl8d82mglmh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTIyi1KvfGSDQPy4XhZBye-4Rurm28oCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263080510831-bjf82cmj25p9amobvpjppl8d82mglmh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

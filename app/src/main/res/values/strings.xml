@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hi-Trek</string>
+    <string name="title_activity_gmaps_demo">gMapsDemo</string>
+    <string name="title_activity_google_maps">GoogleMaps</string>
+    <string name="title_activity_maps">Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
